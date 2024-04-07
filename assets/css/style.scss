@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@200..900&display=swap');
+
+.project_title {
+  font-family: "Unbounded", sans-serif;
+  font-weight: 700;
+}
